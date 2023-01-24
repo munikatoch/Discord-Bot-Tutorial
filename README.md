@@ -1,1 +1,1 @@
-# WhatsAppMessageAutomation
+# Discord Bot C# tutorial
