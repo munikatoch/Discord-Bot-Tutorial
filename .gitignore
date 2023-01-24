@@ -1,0 +1,12 @@
+# Compiled class file
+**/bin/
+**/obj/
+
+# Log file
+*.log
+
+# Package Files #
+packages/
+
+# App config
+app.config
